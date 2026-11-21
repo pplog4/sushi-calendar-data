@@ -1,402 +1,401 @@
 {
-  "schema": 1,
-  "updated": "2026-11-21",
-  "title": "JAL Fラウンジ 鮨鶴亭 週替わりネタ",
-  "hours": "羽田7:00〜11:00、成田7:30〜11:30・15:00〜20:00（現行・公式ラウンジページ）",
-  "sources": "JAL公式発表・公式四半期メニュー、X投稿（一次情報）、訪問記・二次記事。2019年公式プレスは本文照合済み、2024-09〜2025-06の公式表はGrok取得で表単位照合未了、2026年はX投稿をx_threadで原文確認＋画像照合",
-  "items": [
-    {
-      "date": "2026-11-16",
-      "airport": "羽田",
-      "lounge": "鮨鶴亭（JAL Fラウンジ）",
-      "detail": "本マグロ天身・のどぐろ・3品目未確認（〜11-22・2品のみ）",
-      "source_url": "https://x.com/Chorouzu1017/status/2122263540866388193"
-    },
-    {
-      "date": "2026-11-09",
-      "airport": "羽田",
-      "lounge": "鮨鶴亭（JAL Fラウンジ）",
-      "detail": "マグロ天身・紅富士・3品目未確認（〜11-15・2品のみ）",
-      "source_url": "https://x.com/flying_drunkard/status/2120884046536511572"
-    },
-    {
-      "date": "2026-11-02",
-      "airport": "羽田",
-      "lounge": "鮨鶴亭（JAL Fラウンジ）",
-      "detail": "本マグロ中トロ・ヤリイカ・玉子（〜11-08・3品確定）",
-      "source_url": "https://x.com/BooTaku/status/2117031763189100701"
-    },
-    {
-      "date": "2026-10-05",
-      "airport": "成田",
-      "lounge": "鮨鶴亭（JAL Fラウンジ）",
-      "detail": "マグロ天身・河豚・3品目未確認（〜10-11・2品のみ）",
-      "source_url": "https://x.com/flying_drunkard/status/2108717256767312217"
-    },
-    {
-      "date": "2026-09-28",
-      "airport": "未確認",
-      "lounge": "鮨鶴亭（JAL Fラウンジ）",
-      "detail": "マグロ天身・近大真鯛・玉子（〜10-04・3品確定）",
-      "source_url": "https://x.com/hikoukitabi/status/2104684261253186027"
-    },
-    {
-      "date": "2026-09-14",
-      "airport": "羽田",
-      "lounge": "鮨鶴亭（JAL Fラウンジ）",
-      "detail": "本マグロ天身・カラスガレイ縁側・3品目未確認（〜09-20・2品のみ）",
-      "source_url": "https://x.com/flying_drunkard/status/2101092490011148779"
-    },
-    {
-      "date": "2026-08-10",
-      "airport": "羽田",
-      "lounge": "鮨鶴亭（JAL Fラウンジ）",
-      "detail": "マグロ天身・河豚・3品目未確認（〜08-16・2品のみ）",
-      "source_url": "https://x.com/flying_drunkard/status/2086955056986030224"
-    },
-    {
-      "date": "2026-07-13",
-      "airport": "成田",
-      "lounge": "鮨鶴亭（JAL Fラウンジ）",
-      "detail": "マグロ天身・アトランティックサーモン・3品目未確認（〜07-19・2品のみ）",
-      "source_url": "https://x.com/flying_drunkard/status/2078274091472265354"
-    },
-    {
-      "date": "2026-06-08",
-      "airport": "羽田",
-      "lounge": "鮨鶴亭（JAL Fラウンジ）",
-      "detail": "マグロ天身・紅富士・3品目未確認（〜06-14・2品のみ）",
-      "source_url": "https://x.com/flying_drunkard/status/2065564432328265886"
-    },
-    {
-      "date": "2026-05-04",
-      "airport": "未確認",
-      "lounge": "鮨鶴亭（JAL Fラウンジ）",
-      "detail": "マグロ天身・鯛・玉子（〜05-10・3品確定）",
-      "source_url": "https://x.com/gogoatataka/status/2051796547743224200"
-    },
-    {
-      "date": "2026-04-20",
-      "airport": "羽田・成田",
-      "lounge": "鮨鶴亭（JAL Fラウンジ）",
-      "detail": "本マグロ中トロ・のどぐろ・うなぎ白焼（〜05-03・3品確定）",
-      "source_url": "https://x.com/syachou08/status/2046361419696988422"
-    },
-    {
-      "date": "2025-05-26",
-      "airport": "羽田・成田",
-      "lounge": "鮨鶴亭（JAL Fラウンジ）",
-      "detail": "メバチマグロ天身・のどぐろ・玉子（〜06-01）",
-      "source_url": "https://www.jal.co.jp/jp/ja/info/2025/inter/250226/"
-    },
-    {
-      "date": "2025-05-19",
-      "airport": "羽田・成田",
-      "lounge": "鮨鶴亭（JAL Fラウンジ）",
-      "detail": "本マグロ天身・ヤリイカ・玉子（〜05-25）",
-      "source_url": "https://www.jal.co.jp/jp/ja/info/2025/inter/250226/"
-    },
-    {
-      "date": "2025-05-12",
-      "airport": "羽田・成田",
-      "lounge": "鮨鶴亭（JAL Fラウンジ）",
-      "detail": "メバチマグロ天身・サワラ・太巻き（〜05-18）",
-      "source_url": "https://www.jal.co.jp/jp/ja/info/2025/inter/250226/"
-    },
-    {
-      "date": "2025-05-05",
-      "airport": "羽田・成田",
-      "lounge": "鮨鶴亭（JAL Fラウンジ）",
-      "detail": "本マグロ中トロ・河豚・玉子（〜05-11）",
-      "source_url": "https://www.jal.co.jp/jp/ja/info/2025/inter/250226/"
-    },
-    {
-      "date": "2025-04-28",
-      "airport": "羽田・成田",
-      "lounge": "鮨鶴亭（JAL Fラウンジ）",
-      "detail": "メバチマグロ天身・真鯛・玉子（〜05-04）",
-      "source_url": "https://www.jal.co.jp/jp/ja/info/2025/inter/250226/"
-    },
-    {
-      "date": "2025-04-21",
-      "airport": "羽田・成田",
-      "lounge": "鮨鶴亭（JAL Fラウンジ）",
-      "detail": "メバチマグロ天身・紅富士・玉子（〜04-27）",
-      "source_url": "https://www.jal.co.jp/jp/ja/info/2025/inter/250226/"
-    },
-    {
-      "date": "2025-04-14",
-      "airport": "羽田・成田",
-      "lounge": "鮨鶴亭（JAL Fラウンジ）",
-      "detail": "本マグロ天身・コハダ・玉子（〜04-20）",
-      "source_url": "https://www.jal.co.jp/jp/ja/info/2025/inter/250226/"
-    },
-    {
-      "date": "2025-04-07",
-      "airport": "羽田・成田",
-      "lounge": "鮨鶴亭（JAL Fラウンジ）",
-      "detail": "メバチマグロ天身・赤エビ・太巻き（〜04-13）",
-      "source_url": "https://www.jal.co.jp/jp/ja/info/2025/inter/250226/"
-    },
-    {
-      "date": "2025-03-31",
-      "airport": "羽田・成田",
-      "lounge": "鮨鶴亭（JAL Fラウンジ）",
-      "detail": "メバチマグロ天身・真鯛・玉子（〜04-06）",
-      "source_url": "https://www.jal.co.jp/jp/ja/info/2025/inter/250226/"
-    },
-    {
-      "date": "2025-03-24",
-      "airport": "羽田・成田",
-      "lounge": "鮨鶴亭（JAL Fラウンジ）",
-      "detail": "本マグロ天身・カラスガレイ縁側・玉子（〜03-30）",
-      "source_url": "https://www.jal.co.jp/jp/ja/info/2025/inter/250226/"
-    },
-    {
-      "date": "2025-03-17",
-      "airport": "羽田・成田",
-      "lounge": "鮨鶴亭（JAL Fラウンジ）",
-      "detail": "メバチマグロ天身・サーモン・太巻き（〜03-23）",
-      "source_url": "https://www.jal.co.jp/jp/ja/info/2025/inter/250226/"
-    },
-    {
-      "date": "2025-03-10",
-      "airport": "羽田・成田",
-      "lounge": "鮨鶴亭（JAL Fラウンジ）",
-      "detail": "本マグロ中トロ・サヨリ・玉子（〜03-16）",
-      "source_url": "https://www.jal.co.jp/jp/ja/info/2025/inter/250226/"
-    },
-    {
-      "date": "2025-03-03",
-      "airport": "羽田・成田",
-      "lounge": "鮨鶴亭（JAL Fラウンジ）",
-      "detail": "メバチマグロ天身・近大生まれブリヒラ・玉子（〜03-09）",
-      "source_url": "https://www.jal.co.jp/jp/ja/info/2025/inter/250226/"
-    },
-    {
-      "date": "2025-02-24",
-      "airport": "羽田・成田",
-      "lounge": "鮨鶴亭（JAL Fラウンジ）",
-      "detail": "メバチマグロ天身・のどぐろ・玉子（〜03-02・2表重複分統合）",
-      "source_url": "https://www.jal.co.jp/jp/ja/info/2024/inter/241127/"
-    },
-    {
-      "date": "2025-02-17",
-      "airport": "羽田・成田",
-      "lounge": "鮨鶴亭（JAL Fラウンジ）",
-      "detail": "メバチマグロ天身・ヤリイカ・太巻き（〜02-23）",
-      "source_url": "https://www.jal.co.jp/jp/ja/info/2024/inter/241127/"
-    },
-    {
-      "date": "2025-02-10",
-      "airport": "羽田・成田",
-      "lounge": "鮨鶴亭（JAL Fラウンジ）",
-      "detail": "メバチマグロ天身・鹿児島県産カンパチ・玉子（〜02-16）",
-      "source_url": "https://www.jal.co.jp/jp/ja/info/2024/inter/241127/"
-    },
-    {
-      "date": "2025-02-03",
-      "airport": "羽田・成田",
-      "lounge": "鮨鶴亭（JAL Fラウンジ）",
-      "detail": "本マグロ天身・サワラ・玉子（〜02-09）",
-      "source_url": "https://www.jal.co.jp/jp/ja/info/2024/inter/241127/"
-    },
-    {
-      "date": "2025-01-27",
-      "airport": "羽田・成田",
-      "lounge": "鮨鶴亭（JAL Fラウンジ）",
-      "detail": "メバチマグロ天身・近大生まれブリヒラ・玉子（〜02-02）",
-      "source_url": "https://www.jal.co.jp/jp/ja/info/2024/inter/241127/"
-    },
-    {
-      "date": "2025-01-20",
-      "airport": "羽田・成田",
-      "lounge": "鮨鶴亭（JAL Fラウンジ）",
-      "detail": "メバチマグロ天身・ふぐ・太巻き（〜01-26）",
-      "source_url": "https://www.jal.co.jp/jp/ja/info/2024/inter/241127/"
-    },
-    {
-      "date": "2025-01-13",
-      "airport": "羽田・成田",
-      "lounge": "鮨鶴亭（JAL Fラウンジ）",
-      "detail": "本マグロ天身・鹿児島県産カンパチ・玉子（〜01-19）",
-      "source_url": "https://www.jal.co.jp/jp/ja/info/2024/inter/241127/"
-    },
-    {
-      "date": "2025-01-06",
-      "airport": "羽田・成田",
-      "lounge": "鮨鶴亭（JAL Fラウンジ）",
-      "detail": "本マグロ中トロ・コハダ・玉子（〜01-12）",
-      "source_url": "https://www.jal.co.jp/jp/ja/info/2024/inter/241127/"
-    },
-    {
-      "date": "2024-12-30",
-      "airport": "羽田・成田",
-      "lounge": "鮨鶴亭（JAL Fラウンジ）",
-      "detail": "メバチマグロ天身・近大生まれブリヒラ・玉子（〜2025-01-05）",
-      "source_url": "https://www.jal.co.jp/jp/ja/info/2024/inter/241127/"
-    },
-    {
-      "date": "2024-12-23",
-      "airport": "羽田・成田",
-      "lounge": "鮨鶴亭（JAL Fラウンジ）",
-      "detail": "メバチマグロ天身・赤エビ・太巻き（〜12-29）",
-      "source_url": "https://www.jal.co.jp/jp/ja/info/2024/inter/241127/"
-    },
-    {
-      "date": "2024-12-16",
-      "airport": "羽田・成田",
-      "lounge": "鮨鶴亭（JAL Fラウンジ）",
-      "detail": "メバチマグロ天身・鹿児島県産カンパチ・玉子（〜12-22）",
-      "source_url": "https://www.jal.co.jp/jp/ja/info/2024/inter/241127/"
-    },
-    {
-      "date": "2024-12-09",
-      "airport": "羽田・成田",
-      "lounge": "鮨鶴亭（JAL Fラウンジ）",
-      "detail": "本マグロ天身・カラスガレイ縁側・玉子（〜12-15）",
-      "source_url": "https://www.jal.co.jp/jp/ja/info/2024/inter/241127/"
-    },
-    {
-      "date": "2024-12-02",
-      "airport": "羽田・成田",
-      "lounge": "鮨鶴亭（JAL Fラウンジ）",
-      "detail": "メバチマグロ天身・近大生まれ真鯛・玉子（〜12-08）",
-      "source_url": "https://www.jal.co.jp/jp/ja/info/2024/inter/241127/"
-    },
-    {
-      "date": "2024-11-25",
-      "airport": "羽田・成田",
-      "lounge": "鮨鶴亭（JAL Fラウンジ）",
-      "detail": "メバチマグロ天身・サーモン・太巻き（〜12-01・11/25〜30と12/01統合）",
-      "source_url": "https://www.jal.co.jp/jp/ja/info/2024/inter/240831/"
-    },
-    {
-      "date": "2024-11-18",
-      "airport": "羽田・成田",
-      "lounge": "鮨鶴亭（JAL Fラウンジ）",
-      "detail": "本マグロ天身・鹿児島県産カンパチ・玉子（〜11-24）",
-      "source_url": "https://www.jal.co.jp/jp/ja/info/2024/inter/240831/"
-    },
-    {
-      "date": "2024-11-11",
-      "airport": "羽田・成田",
-      "lounge": "鮨鶴亭（JAL Fラウンジ）",
-      "detail": "本マグロ中トロ・サヨリ・玉子（〜11-17）",
-      "source_url": "https://www.jal.co.jp/jp/ja/info/2024/inter/240831/"
-    },
-    {
-      "date": "2024-11-04",
-      "airport": "羽田・成田",
-      "lounge": "鮨鶴亭（JAL Fラウンジ）",
-      "detail": "メバチマグロ天身・近大生まれ真鯛・玉子（〜11-10）",
-      "source_url": "https://www.jal.co.jp/jp/ja/info/2024/inter/240831/"
-    },
-    {
-      "date": "2024-10-28",
-      "airport": "羽田・成田",
-      "lounge": "鮨鶴亭（JAL Fラウンジ）",
-      "detail": "メバチマグロ天身・のどぐろ・玉子（〜11-03）",
-      "source_url": "https://www.jal.co.jp/jp/ja/info/2024/inter/240831/"
-    },
-    {
-      "date": "2024-10-21",
-      "airport": "羽田・成田",
-      "lounge": "鮨鶴亭（JAL Fラウンジ）",
-      "detail": "メバチマグロ天身・ヤリイカ・太巻き（〜10-27）",
-      "source_url": "https://www.jal.co.jp/jp/ja/info/2024/inter/240831/"
-    },
-    {
-      "date": "2024-10-14",
-      "airport": "羽田・成田",
-      "lounge": "鮨鶴亭（JAL Fラウンジ）",
-      "detail": "メバチマグロ天身・鹿児島県産カンパチ・玉子（〜10-20）",
-      "source_url": "https://www.jal.co.jp/jp/ja/info/2024/inter/240831/"
-    },
-    {
-      "date": "2024-10-07",
-      "airport": "羽田・成田",
-      "lounge": "鮨鶴亭（JAL Fラウンジ）",
-      "detail": "本マグロ天身・サワラ炙り・玉子（〜10-13）",
-      "source_url": "https://www.jal.co.jp/jp/ja/info/2024/inter/240831/"
-    },
-    {
-      "date": "2024-09-30",
-      "airport": "羽田・成田",
-      "lounge": "鮨鶴亭（JAL Fラウンジ）",
-      "detail": "メバチマグロ天身・近大生まれ真鯛・玉子（〜10-06）",
-      "source_url": "https://www.jal.co.jp/jp/ja/info/2024/inter/240831/"
-    },
-    {
-      "date": "2024-09-23",
-      "airport": "羽田・成田",
-      "lounge": "鮨鶴亭（JAL Fラウンジ）",
-      "detail": "メバチマグロ天身・甘エビ・太巻き（〜09-29）",
-      "source_url": "https://www.jal.co.jp/jp/ja/info/2024/inter/240831/"
-    },
-    {
-      "date": "2024-09-16",
-      "airport": "羽田・成田",
-      "lounge": "鮨鶴亭（JAL Fラウンジ）",
-      "detail": "本マグロ中トロ・鰻・玉子（〜09-22）",
-      "source_url": "https://www.jal.co.jp/jp/ja/info/2024/inter/240831/"
-    },
-    {
-      "date": "2024-09-09",
-      "airport": "羽田・成田",
-      "lounge": "鮨鶴亭（JAL Fラウンジ）",
-      "detail": "メバチマグロ天身・ふぐ・玉子（〜09-15）",
-      "source_url": "https://www.jal.co.jp/jp/ja/info/2024/inter/240831/"
-    },
-    {
-      "date": "2024-09-02",
-      "airport": "羽田・成田",
-      "lounge": "鮨鶴亭（JAL Fラウンジ）",
-      "detail": "メバチマグロ天身・サーモン・玉子（〜09-08）",
-      "source_url": "https://www.jal.co.jp/jp/ja/info/2024/inter/240831/"
-    },
-    {
-      "date": "2024-09-01",
-      "airport": "羽田・成田",
-      "lounge": "鮨鶴亭（JAL Fラウンジ）",
-      "detail": "マグロ天身・コハダ・太巻き（〜09-01）",
-      "source_url": "https://www.jal.co.jp/jp/ja/info/2024/inter/240831/"
-    },
-    {
-      "date": "2019-04-25",
-      "airport": "成田",
-      "lounge": "鮨鶴亭（JAL Fラウンジ）",
-      "detail": "マグロ天身・キス昆布締め・タマゴ（〜05-01）",
-      "source_url": "https://press.jal.co.jp/ja/release/201903/005099.html"
-    },
-    {
-      "date": "2019-04-18",
-      "airport": "成田",
-      "lounge": "鮨鶴亭（JAL Fラウンジ）",
-      "detail": "中トロ・ヤリイカ・タマゴ（〜04-24）",
-      "source_url": "https://press.jal.co.jp/ja/release/201903/005099.html"
-    },
-    {
-      "date": "2019-04-11",
-      "airport": "成田",
-      "lounge": "鮨鶴亭（JAL Fラウンジ）",
-      "detail": "マグロ天身・銀鮭・タマゴ（〜04-17）",
-      "source_url": "https://press.jal.co.jp/ja/release/201903/005099.html"
-    },
-    {
-      "date": "2019-04-04",
-      "airport": "成田",
-      "lounge": "鮨鶴亭（JAL Fラウンジ）",
-      "detail": "天然ヒラメ・赤海老・太巻き（〜04-10）",
-      "source_url": "https://press.jal.co.jp/ja/release/201903/005099.html"
-    },
-    {
-      "date": "2019-04-01",
-      "airport": "成田",
-      "lounge": "鮨鶴亭（JAL Fラウンジ）",
-      "detail": "中トロ・ヤリイカ・タマゴ（〜04-03・週替わり3貫セット）",
-      "source_url": "https://press.jal.co.jp/ja/release/201903/005099.html"
-    }
-  ],
-  "format_note": "test"
+ "schema": 1,
+ "updated": "2026-11-21",
+ "title": "JAL Fラウンジ 鮨鶴亭 週替わりネタ",
+ "hours": "羽田7:00〜11:00、成田7:30〜11:30・15:00〜20:00（現行・公式ラウンジページ）",
+ "sources": "JAL公式発表・公式四半期メニュー、X投稿（一次情報）、訪問記・二次記事。2019年公式プレスは本文照合済み、2024-09〜2025-06の公式表はGrok取得で表単位照合未了、2026年はX投稿をx_threadで原文確認＋画像照合",
+ "items": [
+  {
+   "date": "2026-11-16",
+   "airport": "羽田",
+   "lounge": "鮨鶴亭（JAL Fラウンジ）",
+   "detail": "本マグロ天身・のどぐろ・3品目未確認（〜11-22・2品のみ）",
+   "source_url": "https://x.com/Chorouzu1017/status/2122263540866388193"
+  },
+  {
+   "date": "2026-11-09",
+   "airport": "羽田",
+   "lounge": "鮨鶴亭（JAL Fラウンジ）",
+   "detail": "マグロ天身・紅富士・3品目未確認（〜11-15・2品のみ）",
+   "source_url": "https://x.com/flying_drunkard/status/2120884046536511572"
+  },
+  {
+   "date": "2026-11-02",
+   "airport": "羽田",
+   "lounge": "鮨鶴亭（JAL Fラウンジ）",
+   "detail": "本マグロ中トロ・ヤリイカ・玉子（〜11-08・3品確定）",
+   "source_url": "https://x.com/BooTaku/status/2117031763189100701"
+  },
+  {
+   "date": "2026-10-05",
+   "airport": "成田",
+   "lounge": "鮨鶴亭（JAL Fラウンジ）",
+   "detail": "マグロ天身・河豚・3品目未確認（〜10-11・2品のみ）",
+   "source_url": "https://x.com/flying_drunkard/status/2108717256767312217"
+  },
+  {
+   "date": "2026-09-28",
+   "airport": "未確認",
+   "lounge": "鮨鶴亭（JAL Fラウンジ）",
+   "detail": "マグロ天身・近大真鯛・玉子（〜10-04・3品確定）",
+   "source_url": "https://x.com/hikoukitabi/status/2104684261253186027"
+  },
+  {
+   "date": "2026-09-14",
+   "airport": "羽田",
+   "lounge": "鮨鶴亭（JAL Fラウンジ）",
+   "detail": "本マグロ天身・カラスガレイ縁側・3品目未確認（〜09-20・2品のみ）",
+   "source_url": "https://x.com/flying_drunkard/status/2101092490011148779"
+  },
+  {
+   "date": "2026-08-10",
+   "airport": "羽田",
+   "lounge": "鮨鶴亭（JAL Fラウンジ）",
+   "detail": "マグロ天身・河豚・3品目未確認（〜08-16・2品のみ）",
+   "source_url": "https://x.com/flying_drunkard/status/2086955056986030224"
+  },
+  {
+   "date": "2026-07-13",
+   "airport": "成田",
+   "lounge": "鮨鶴亭（JAL Fラウンジ）",
+   "detail": "マグロ天身・アトランティックサーモン・3品目未確認（〜07-19・2品のみ）",
+   "source_url": "https://x.com/flying_drunkard/status/2078274091472265354"
+  },
+  {
+   "date": "2026-06-08",
+   "airport": "羽田",
+   "lounge": "鮨鶴亭（JAL Fラウンジ）",
+   "detail": "マグロ天身・紅富士・3品目未確認（〜06-14・2品のみ）",
+   "source_url": "https://x.com/flying_drunkard/status/2065564432328265886"
+  },
+  {
+   "date": "2026-05-04",
+   "airport": "未確認",
+   "lounge": "鮨鶴亭（JAL Fラウンジ）",
+   "detail": "マグロ天身・鯛・玉子（〜05-10・3品確定）",
+   "source_url": "https://x.com/gogoatataka/status/2051796547743224200"
+  },
+  {
+   "date": "2026-04-20",
+   "airport": "羽田・成田",
+   "lounge": "鮨鶴亭（JAL Fラウンジ）",
+   "detail": "本マグロ中トロ・のどぐろ・うなぎ白焼（〜05-03・3品確定）",
+   "source_url": "https://x.com/syachou08/status/2046361419696988422"
+  },
+  {
+   "date": "2025-05-26",
+   "airport": "羽田・成田",
+   "lounge": "鮨鶴亭（JAL Fラウンジ）",
+   "detail": "メバチマグロ天身・のどぐろ・玉子（〜06-01）",
+   "source_url": "https://www.jal.co.jp/jp/ja/info/2025/inter/250226/"
+  },
+  {
+   "date": "2025-05-19",
+   "airport": "羽田・成田",
+   "lounge": "鮨鶴亭（JAL Fラウンジ）",
+   "detail": "本マグロ天身・ヤリイカ・玉子（〜05-25）",
+   "source_url": "https://www.jal.co.jp/jp/ja/info/2025/inter/250226/"
+  },
+  {
+   "date": "2025-05-12",
+   "airport": "羽田・成田",
+   "lounge": "鮨鶴亭（JAL Fラウンジ）",
+   "detail": "メバチマグロ天身・サワラ・太巻き（〜05-18）",
+   "source_url": "https://www.jal.co.jp/jp/ja/info/2025/inter/250226/"
+  },
+  {
+   "date": "2025-05-05",
+   "airport": "羽田・成田",
+   "lounge": "鮨鶴亭（JAL Fラウンジ）",
+   "detail": "本マグロ中トロ・河豚・玉子（〜05-11）",
+   "source_url": "https://www.jal.co.jp/jp/ja/info/2025/inter/250226/"
+  },
+  {
+   "date": "2025-04-28",
+   "airport": "羽田・成田",
+   "lounge": "鮨鶴亭（JAL Fラウンジ）",
+   "detail": "メバチマグロ天身・真鯛・玉子（〜05-04）",
+   "source_url": "https://www.jal.co.jp/jp/ja/info/2025/inter/250226/"
+  },
+  {
+   "date": "2025-04-21",
+   "airport": "羽田・成田",
+   "lounge": "鮨鶴亭（JAL Fラウンジ）",
+   "detail": "メバチマグロ天身・紅富士・玉子（〜04-27）",
+   "source_url": "https://www.jal.co.jp/jp/ja/info/2025/inter/250226/"
+  },
+  {
+   "date": "2025-04-14",
+   "airport": "羽田・成田",
+   "lounge": "鮨鶴亭（JAL Fラウンジ）",
+   "detail": "本マグロ天身・コハダ・玉子（〜04-20）",
+   "source_url": "https://www.jal.co.jp/jp/ja/info/2025/inter/250226/"
+  },
+  {
+   "date": "2025-04-07",
+   "airport": "羽田・成田",
+   "lounge": "鮨鶴亭（JAL Fラウンジ）",
+   "detail": "メバチマグロ天身・赤エビ・太巻き（〜04-13）",
+   "source_url": "https://www.jal.co.jp/jp/ja/info/2025/inter/250226/"
+  },
+  {
+   "date": "2025-03-31",
+   "airport": "羽田・成田",
+   "lounge": "鮨鶴亭（JAL Fラウンジ）",
+   "detail": "メバチマグロ天身・真鯛・玉子（〜04-06）",
+   "source_url": "https://www.jal.co.jp/jp/ja/info/2025/inter/250226/"
+  },
+  {
+   "date": "2025-03-24",
+   "airport": "羽田・成田",
+   "lounge": "鮨鶴亭（JAL Fラウンジ）",
+   "detail": "本マグロ天身・カラスガレイ縁側・玉子（〜03-30）",
+   "source_url": "https://www.jal.co.jp/jp/ja/info/2025/inter/250226/"
+  },
+  {
+   "date": "2025-03-17",
+   "airport": "羽田・成田",
+   "lounge": "鮨鶴亭（JAL Fラウンジ）",
+   "detail": "メバチマグロ天身・サーモン・太巻き（〜03-23）",
+   "source_url": "https://www.jal.co.jp/jp/ja/info/2025/inter/250226/"
+  },
+  {
+   "date": "2025-03-10",
+   "airport": "羽田・成田",
+   "lounge": "鮨鶴亭（JAL Fラウンジ）",
+   "detail": "本マグロ中トロ・サヨリ・玉子（〜03-16）",
+   "source_url": "https://www.jal.co.jp/jp/ja/info/2025/inter/250226/"
+  },
+  {
+   "date": "2025-03-03",
+   "airport": "羽田・成田",
+   "lounge": "鮨鶴亭（JAL Fラウンジ）",
+   "detail": "メバチマグロ天身・近大生まれブリヒラ・玉子（〜03-09）",
+   "source_url": "https://www.jal.co.jp/jp/ja/info/2025/inter/250226/"
+  },
+  {
+   "date": "2025-02-24",
+   "airport": "羽田・成田",
+   "lounge": "鮨鶴亭（JAL Fラウンジ）",
+   "detail": "メバチマグロ天身・のどぐろ・玉子（〜03-02・2表重複分統合）",
+   "source_url": "https://www.jal.co.jp/jp/ja/info/2024/inter/241127/"
+  },
+  {
+   "date": "2025-02-17",
+   "airport": "羽田・成田",
+   "lounge": "鮨鶴亭（JAL Fラウンジ）",
+   "detail": "メバチマグロ天身・ヤリイカ・太巻き（〜02-23）",
+   "source_url": "https://www.jal.co.jp/jp/ja/info/2024/inter/241127/"
+  },
+  {
+   "date": "2025-02-10",
+   "airport": "羽田・成田",
+   "lounge": "鮨鶴亭（JAL Fラウンジ）",
+   "detail": "メバチマグロ天身・鹿児島県産カンパチ・玉子（〜02-16）",
+   "source_url": "https://www.jal.co.jp/jp/ja/info/2024/inter/241127/"
+  },
+  {
+   "date": "2025-02-03",
+   "airport": "羽田・成田",
+   "lounge": "鮨鶴亭（JAL Fラウンジ）",
+   "detail": "本マグロ天身・サワラ・玉子（〜02-09）",
+   "source_url": "https://www.jal.co.jp/jp/ja/info/2024/inter/241127/"
+  },
+  {
+   "date": "2025-01-27",
+   "airport": "羽田・成田",
+   "lounge": "鮨鶴亭（JAL Fラウンジ）",
+   "detail": "メバチマグロ天身・近大生まれブリヒラ・玉子（〜02-02）",
+   "source_url": "https://www.jal.co.jp/jp/ja/info/2024/inter/241127/"
+  },
+  {
+   "date": "2025-01-20",
+   "airport": "羽田・成田",
+   "lounge": "鮨鶴亭（JAL Fラウンジ）",
+   "detail": "メバチマグロ天身・ふぐ・太巻き（〜01-26）",
+   "source_url": "https://www.jal.co.jp/jp/ja/info/2024/inter/241127/"
+  },
+  {
+   "date": "2025-01-13",
+   "airport": "羽田・成田",
+   "lounge": "鮨鶴亭（JAL Fラウンジ）",
+   "detail": "本マグロ天身・鹿児島県産カンパチ・玉子（〜01-19）",
+   "source_url": "https://www.jal.co.jp/jp/ja/info/2024/inter/241127/"
+  },
+  {
+   "date": "2025-01-06",
+   "airport": "羽田・成田",
+   "lounge": "鮨鶴亭（JAL Fラウンジ）",
+   "detail": "本マグロ中トロ・コハダ・玉子（〜01-12）",
+   "source_url": "https://www.jal.co.jp/jp/ja/info/2024/inter/241127/"
+  },
+  {
+   "date": "2024-12-30",
+   "airport": "羽田・成田",
+   "lounge": "鮨鶴亭（JAL Fラウンジ）",
+   "detail": "メバチマグロ天身・近大生まれブリヒラ・玉子（〜2025-01-05）",
+   "source_url": "https://www.jal.co.jp/jp/ja/info/2024/inter/241127/"
+  },
+  {
+   "date": "2024-12-23",
+   "airport": "羽田・成田",
+   "lounge": "鮨鶴亭（JAL Fラウンジ）",
+   "detail": "メバチマグロ天身・赤エビ・太巻き（〜12-29）",
+   "source_url": "https://www.jal.co.jp/jp/ja/info/2024/inter/241127/"
+  },
+  {
+   "date": "2024-12-16",
+   "airport": "羽田・成田",
+   "lounge": "鮨鶴亭（JAL Fラウンジ）",
+   "detail": "メバチマグロ天身・鹿児島県産カンパチ・玉子（〜12-22）",
+   "source_url": "https://www.jal.co.jp/jp/ja/info/2024/inter/241127/"
+  },
+  {
+   "date": "2024-12-09",
+   "airport": "羽田・成田",
+   "lounge": "鮨鶴亭（JAL Fラウンジ）",
+   "detail": "本マグロ天身・カラスガレイ縁側・玉子（〜12-15）",
+   "source_url": "https://www.jal.co.jp/jp/ja/info/2024/inter/241127/"
+  },
+  {
+   "date": "2024-12-02",
+   "airport": "羽田・成田",
+   "lounge": "鮨鶴亭（JAL Fラウンジ）",
+   "detail": "メバチマグロ天身・近大生まれ真鯛・玉子（〜12-08）",
+   "source_url": "https://www.jal.co.jp/jp/ja/info/2024/inter/241127/"
+  },
+  {
+   "date": "2024-11-25",
+   "airport": "羽田・成田",
+   "lounge": "鮨鶴亭（JAL Fラウンジ）",
+   "detail": "メバチマグロ天身・サーモン・太巻き（〜12-01・11/25〜30と12/01統合）",
+   "source_url": "https://www.jal.co.jp/jp/ja/info/2024/inter/240831/"
+  },
+  {
+   "date": "2024-11-18",
+   "airport": "羽田・成田",
+   "lounge": "鮨鶴亭（JAL Fラウンジ）",
+   "detail": "本マグロ天身・鹿児島県産カンパチ・玉子（〜11-24）",
+   "source_url": "https://www.jal.co.jp/jp/ja/info/2024/inter/240831/"
+  },
+  {
+   "date": "2024-11-11",
+   "airport": "羽田・成田",
+   "lounge": "鮨鶴亭（JAL Fラウンジ）",
+   "detail": "本マグロ中トロ・サヨリ・玉子（〜11-17）",
+   "source_url": "https://www.jal.co.jp/jp/ja/info/2024/inter/240831/"
+  },
+  {
+   "date": "2024-11-04",
+   "airport": "羽田・成田",
+   "lounge": "鮨鶴亭（JAL Fラウンジ）",
+   "detail": "メバチマグロ天身・近大生まれ真鯛・玉子（〜11-10）",
+   "source_url": "https://www.jal.co.jp/jp/ja/info/2024/inter/240831/"
+  },
+  {
+   "date": "2024-10-28",
+   "airport": "羽田・成田",
+   "lounge": "鮨鶴亭（JAL Fラウンジ）",
+   "detail": "メバチマグロ天身・のどぐろ・玉子（〜11-03）",
+   "source_url": "https://www.jal.co.jp/jp/ja/info/2024/inter/240831/"
+  },
+  {
+   "date": "2024-10-21",
+   "airport": "羽田・成田",
+   "lounge": "鮨鶴亭（JAL Fラウンジ）",
+   "detail": "メバチマグロ天身・ヤリイカ・太巻き（〜10-27）",
+   "source_url": "https://www.jal.co.jp/jp/ja/info/2024/inter/240831/"
+  },
+  {
+   "date": "2024-10-14",
+   "airport": "羽田・成田",
+   "lounge": "鮨鶴亭（JAL Fラウンジ）",
+   "detail": "メバチマグロ天身・鹿児島県産カンパチ・玉子（〜10-20）",
+   "source_url": "https://www.jal.co.jp/jp/ja/info/2024/inter/240831/"
+  },
+  {
+   "date": "2024-10-07",
+   "airport": "羽田・成田",
+   "lounge": "鮨鶴亭（JAL Fラウンジ）",
+   "detail": "本マグロ天身・サワラ炙り・玉子（〜10-13）",
+   "source_url": "https://www.jal.co.jp/jp/ja/info/2024/inter/240831/"
+  },
+  {
+   "date": "2024-09-30",
+   "airport": "羽田・成田",
+   "lounge": "鮨鶴亭（JAL Fラウンジ）",
+   "detail": "メバチマグロ天身・近大生まれ真鯛・玉子（〜10-06）",
+   "source_url": "https://www.jal.co.jp/jp/ja/info/2024/inter/240831/"
+  },
+  {
+   "date": "2024-09-23",
+   "airport": "羽田・成田",
+   "lounge": "鮨鶴亭（JAL Fラウンジ）",
+   "detail": "メバチマグロ天身・甘エビ・太巻き（〜09-29）",
+   "source_url": "https://www.jal.co.jp/jp/ja/info/2024/inter/240831/"
+  },
+  {
+   "date": "2024-09-16",
+   "airport": "羽田・成田",
+   "lounge": "鮨鶴亭（JAL Fラウンジ）",
+   "detail": "本マグロ中トロ・鰻・玉子（〜09-22）",
+   "source_url": "https://www.jal.co.jp/jp/ja/info/2024/inter/240831/"
+  },
+  {
+   "date": "2024-09-09",
+   "airport": "羽田・成田",
+   "lounge": "鮨鶴亭（JAL Fラウンジ）",
+   "detail": "メバチマグロ天身・ふぐ・玉子（〜09-15）",
+   "source_url": "https://www.jal.co.jp/jp/ja/info/2024/inter/240831/"
+  },
+  {
+   "date": "2024-09-02",
+   "airport": "羽田・成田",
+   "lounge": "鮨鶴亭（JAL Fラウンジ）",
+   "detail": "メバチマグロ天身・サーモン・玉子（〜09-08）",
+   "source_url": "https://www.jal.co.jp/jp/ja/info/2024/inter/240831/"
+  },
+  {
+   "date": "2024-09-01",
+   "airport": "羽田・成田",
+   "lounge": "鮨鶴亭（JAL Fラウンジ）",
+   "detail": "マグロ天身・コハダ・太巻き（〜09-01）",
+   "source_url": "https://www.jal.co.jp/jp/ja/info/2024/inter/240831/"
+  },
+  {
+   "date": "2019-04-25",
+   "airport": "成田",
+   "lounge": "鮨鶴亭（JAL Fラウンジ）",
+   "detail": "マグロ天身・キス昆布締め・タマゴ（〜05-01）",
+   "source_url": "https://press.jal.co.jp/ja/release/201903/005099.html"
+  },
+  {
+   "date": "2019-04-18",
+   "airport": "成田",
+   "lounge": "鮨鶴亭（JAL Fラウンジ）",
+   "detail": "中トロ・ヤリイカ・タマゴ（〜04-24）",
+   "source_url": "https://press.jal.co.jp/ja/release/201903/005099.html"
+  },
+  {
+   "date": "2019-04-11",
+   "airport": "成田",
+   "lounge": "鮨鶴亭（JAL Fラウンジ）",
+   "detail": "マグロ天身・銀鮭・タマゴ（〜04-17）",
+   "source_url": "https://press.jal.co.jp/ja/release/201903/005099.html"
+  },
+  {
+   "date": "2019-04-04",
+   "airport": "成田",
+   "lounge": "鮨鶴亭（JAL Fラウンジ）",
+   "detail": "天然ヒラメ・赤海老・太巻き（〜04-10）",
+   "source_url": "https://press.jal.co.jp/ja/release/201903/005099.html"
+  },
+  {
+   "date": "2019-04-01",
+   "airport": "成田",
+   "lounge": "鮨鶴亭（JAL Fラウンジ）",
+   "detail": "中トロ・ヤリイカ・タマゴ（〜04-03・週替わり3貫セット）",
+   "source_url": "https://press.jal.co.jp/ja/release/201903/005099.html"
+  }
+ ]
 }
