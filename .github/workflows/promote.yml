@@ -1,0 +1,29 @@
+# sushi-calendar.json が更新されたら形を検査し、合格したときだけ last-good.json に写す。
+# PPログの表示部品は、sushi-calendar.json が壊れていれば last-good.json を表示し「更新を確認中」と出す。
+name: validate-and-promote
+on:
+  push:
+    branches: [main]
+    paths: [sushi-calendar.json]
+  workflow_dispatch:
+permissions:
+  contents: write
+concurrency:
+  group: promote
+  cancel-in-progress: false
+jobs:
+  promote:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@11bd71901bbe5b1630ceea73d27597364c9af683 # v4.2.2
+      - name: validate
+        run: python3 validate.py sushi-calendar.json last-good.json
+      - name: promote
+        run: |
+          if cmp -s sushi-calendar.json last-good.json; then echo "no change"; exit 0; fi
+          cp sushi-calendar.json last-good.json
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add last-good.json
+          git commit -m "last-good: $(python3 -c 'import json;d=json.load(open("last-good.json"));print(d["updated"], len(d["items"]), "件")')"
+          git push
