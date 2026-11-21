@@ -27,7 +27,7 @@
       "source_url": "https://x.com/BooTaku/status/2117031763189100701"
     },
     {
-      "date": "2026-02-30",
+      "date": "2026-10-05",
       "airport": "成田",
       "lounge": "鮨鶴亭（JAL Fラウンジ）",
       "detail": "マグロ天身・河豚・3品目未確認（〜10-11・2品のみ）",
@@ -397,5 +397,6 @@
       "detail": "中トロ・ヤリイカ・タマゴ（〜04-03・週替わり3貫セット）",
       "source_url": "https://press.jal.co.jp/ja/release/201903/005099.html"
     }
-  ]
+  ],
+  "format_note": "test"
 }
